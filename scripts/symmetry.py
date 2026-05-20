@@ -29,6 +29,7 @@ Usage
   python symmetry.py                               # process all Qwen runs
   python symmetry.py --model qwen-coder-1.5b-instruct
   python symmetry.py --model-dir /full/path/to/model_dir
+  
 """
 
 import argparse
