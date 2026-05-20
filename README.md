@@ -1,4 +1,4 @@
-# CODE_LLM — Mechanistic Interpretability Pipeline for Qwen2.5-Coder on MBPP+
+# Interpreting Code Correctness in Language Models through Activation Steering
 
 ## Quick Start
 
